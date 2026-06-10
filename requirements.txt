@@ -1,0 +1,9 @@
+discord.py
+langchain
+langchain-openai
+langchain-community
+openai
+python-dotenv
+chromadb
+tiktoken
+sqlalchemy
